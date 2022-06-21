@@ -20,4 +20,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
   
 My first milestone was to make a functioning Twitch bot. I first had to set up the Raspberry Pi for my project and download Python and the default version was 3.9.2.  I had to learn the features of the Pi. In order to make the twitch bot I had to look through two different guides and did some research to get a code that was functional. While doing this I was facing many problems with my code which I had to debug. I later realized that my ouath ley was not working properly and decided to apply for a new one. And once I did that the bot started working.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1655844344/video_to_markdown/images/youtube--RvDTBw8fGOY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=RvDTBw8fGOY "Milestone 1"){:target="_blank" rel="noopener"}
