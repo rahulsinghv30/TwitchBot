@@ -7,9 +7,6 @@ This project is using Python and Raspberry Pi in order to code a twitch bot whic
 
 <a href="https://ibb.co/qk4hBxH"><img src="https://i.ibb.co/6gpGYNK/screenshot.png" alt="screenshot" border="0"></a>
   
-Engineering Documentation Link:
-(https://docs.google.com/document/d/1_an23Smk3O3ou4I4KlyS1yQwC_GIRKu7c7snlf9WJn4/edit?usp=sharing)
-  
 # Final Milestone
 For my twitch bot, I first set up the Raspberry Pi and synced it with my VNC viewer code app so that I can access Rasberry Pi through my computer screen. Then I  wrote the basic twitch bot code from scratch where I faced some issues. I utilized my first week to debug the code and connect my Twitch bot to the shell. During the second week, I used the twitch API to code the bot in order to add more modifications to my bot. I made two modifications during that week and made my second milestone video. During the third week, I cleaned my code, worked on the Github website, and made sure to debug some parts of the code that were not working. A quick rundown of my modifications, using the twitch IO I made some commands such as; !hello the bot will spit out Hello, and the person’s name in the twitch chat. If someone types !randomNum, then the bot will spit out a random number between 1-10. I also added a routine function that is provided by api. This would display the bot controller a custom message. In my case, I have programmed it to show the message of like and subscribe after every 10 seconds.
 
@@ -64,6 +61,8 @@ bot = Bot()
 bot.run()
 
 ```
+
+[Engineering Documentation link can be accessed by clicking here](https://docs.google.com/document/d/1_an23Smk3O3ou4I4KlyS1yQwC_GIRKu7c7snlf9WJn4/edit?usp=sharing)
 
 Some challenges which I faced during this project were the Python version and some OAuth key changes. In order to run my code, I had to update the python version manually from 3.9.2 to 3.10.5. But then the code was still not working and I realized that I had to generate a new OAuth key to make the bot sync with my twitch channel. In the future, I can add more modifications to display these automated messages to the users after a fixed interval of time. Here is my final milestone video of my project.
 
