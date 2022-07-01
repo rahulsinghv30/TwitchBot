@@ -56,6 +56,10 @@ class Bot(commands.Bot):
         print(f'Remember {arg}!')
         
     remember.start('to like and subscribe!')
+
+bot = Bot()
+bot.run()
+
 ```
 
 Some challenges which I faced during this project were the Python version and some OAuth key changes. In order to run my code, I had to update the python version manually from 3.9.2 to 3.10.5. But then the code was still not working and I realized that I had to generate a new OAuth key to make the bot sync with my twitch channel. In the future, I can add more modifications to display these automated messages to the users after a fixed interval of time. Here is my final milestone video of my project.
